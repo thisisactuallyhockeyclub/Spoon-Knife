@@ -1,6 +1,8 @@
 * {
   margin:0px;
   padding:0px;
+  background-repeat:no-repeat;
+  background-color:lime;
 }
 
 #octocat {
